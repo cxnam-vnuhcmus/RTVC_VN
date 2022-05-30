@@ -1,0 +1,5 @@
+file 'datasets_vn/vivos/wavs/VIVOSDEV15/VIVOSDEV15_003.wav'
+file 'datasets_vn/vivos/wavs/VIVOSDEV15/VIVOSDEV15_013.wav'
+file 'datasets_vn/vivos/wavs/VIVOSDEV15/VIVOSDEV15_014.wav'
+file 'datasets_vn/vivos/wavs/VIVOSDEV15/VIVOSDEV15_020.wav'
+file 'datasets_vn/vivos/wavs/VIVOSDEV15/VIVOSDEV15_021.wav'
